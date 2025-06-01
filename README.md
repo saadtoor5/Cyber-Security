@@ -1,16 +1,16 @@
-# Machine Learning Projects
+# Cybersecurity Projects
 
-A collection of practical machine learning projects covering topics like image classification, natural language processing, and forecasting.
+A collection of ethical hacking tools, network security scripts, and penetration testing projects designed for learning and experimentation.
 
 ## Projects
 
-- Image classification
-- Sentiment analysis
-- Time-series forecasting
+- Keylogger scripts  
+- Packet sniffers  
+- Automation tools  
 
 ## Setup
 
-Install required packages:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
