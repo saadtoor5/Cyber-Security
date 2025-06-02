@@ -1,16 +1,35 @@
-# Cybersecurity Projects
+# 🔐 Cybersecurity Projects
 
-A collection of ethical hacking tools, network security scripts, and penetration testing projects designed for learning and experimentation.
+Welcome to my cybersecurity lab — a collection of hands-on projects focused on ethical hacking, network security, and digital defense.
 
-## Projects
+## 🛡️ What's Inside
 
-- Keylogger scripts  
-- Packet sniffers  
-- Automation tools  
+- 🧰 **Penetration Testing** – Tools and techniques for vulnerability assessment  
+- 💣 **Payload Generation** – Custom payloads using `msfvenom`, `Veil`, and more  
+- 🔍 **Reconnaissance & Scanning** – Network mapping and enumeration  
+- 🐚 **Exploitation & Reverse Shells** – Practical offensive security setups  
+- 🗃️ **CTF Writeups** – Solutions to real-world Capture The Flag challenges
 
-## Setup
+## 🛠️ Tools & Tech
 
-Install dependencies:
+- Kali Linux 🐉  
+- Nmap, Metasploit, Wireshark  
+- Python, Bash scripting  
+- Burp Suite, Hydra, John the Ripper
 
-```bash
-pip install -r requirements.txt
+## 📁 Project Structure
+
+Each folder contains:
+
+- `README.md` – Project overview  
+- `scripts/` – Custom tools or automation  
+- `notes.md` – Commands and observations  
+- `screenshots/` – Proofs of concept or walkthroughs
+
+## ⚠️ Disclaimer
+
+All tools and techniques are intended for **educational** and **ethical** use only. Never test on systems without explicit permission.
+
+---
+
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/saad-toor-st2380/) | **Email**: saadtoor0@gmail.com
