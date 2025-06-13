@@ -32,4 +32,4 @@ All tools and techniques are intended for **educational** and **ethical** use on
 
 ---
 
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/saad-toor-st2380/) | **Email**: saadtoor0@gmail.com
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/saadtoorx/) | **Email**: saadtoor0@gmail.com
